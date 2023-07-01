@@ -91,5 +91,5 @@ Um objeto JSON com uma mensagem de sucesso e o objeto da ação que foi vendida,
 - Contribuição
 - Contribuições, issues e solicitações de recursos são bem-vindas. Sinta-se à vontade para verificar a página de issues se quiser contribuir.
 
-Autor
+# Autor
 Emerson Amorim
